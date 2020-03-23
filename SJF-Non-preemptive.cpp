@@ -93,7 +93,7 @@ int main()
 
 
 
-*\//Output:
+*/ //Output:
 Process ID      Arrival Time    Burst Time
 1               2               3
 2               0               4
@@ -104,4 +104,4 @@ Process ID      Arrival Time    Burst Time      Waiting Time    Turnaround Time
 2               0               4               0               4
 3               4               2               0               2
 1               2               3               4               7
-4               5               4               4               8     *\
+4               5               4               4               8     /*
